@@ -81,5 +81,5 @@ Job Tracker is a full-stack web application designed to help users manage their 
    git clone https://github.com/yourusername/job-tracker.git
    cd job-tracker/server
 
-##Public code is not available at this time. 
+### Public code is not available at this time. 
 
